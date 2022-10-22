@@ -1,0 +1,19 @@
+.gradle
+/build
+!gradle/wrapper/gradle-wrapper.jar
+/out
+
+# Compiled class file
+*.class
+**/target/*
+
+# Log file
+*.log
+
+*.tar.gz
+
+# Intellij
+.idea
+*.iml
+*.iws
+*.ipr
